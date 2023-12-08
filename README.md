@@ -2,9 +2,9 @@
 
 
 ## Managing secrets
-[ ] HashiCorp Vault Secret(WIP)
-[ ] Infisical
-[ ] AWS Key management 
+- [ ] HashiCorp Vault Secret(WIP)
+- [ ] Infisical
+- [ ] AWS Key management 
 
-## Not sure what else to try yet...
+## Not sure what else, open a PR to discuss? 
  
