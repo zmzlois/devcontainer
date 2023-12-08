@@ -1,0 +1,15 @@
+{
+    "name": "HashiCorp Vault CLI",
+    "id": "hashicorp-vault",
+    "version": "0.0.1",
+    "description": "Intall HashiCorp Vault in devcontainer",
+    "options": {
+        "completion": {
+            "type": "boolean",
+            "default": true,
+            "description": "Whether to install install hashicopr shell completion after installing",
+        }
+    }, 
+    "installsAfter": ["ghcr.io/devcontainers/features/common-utils"],
+    "postCreateCommand": "/usr/local/share/hashicorp-vault/setup-vault.sh"
+}
