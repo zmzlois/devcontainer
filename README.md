@@ -1,2 +1,10 @@
-# devcontainer-test
+# A set of shell script templates to set up dev containers in cloud based development environment
+
+
+## Managing secrets
+[ ] HashiCorp Vault Secret(WIP)
+[ ] Infisical
+[ ] AWS Key management 
+
+## Not sure what else to try yet...
  
